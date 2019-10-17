@@ -7,4 +7,3 @@ y5=[775531.609011005,724961.202907764,776015.533273650,754661.543329545,766051.8
 plot(x,y1,'+',x,y2,'*',x,y3,x,y4,x,y5);
 xlabel('Number of nodes');
 ylabel('Message Throughput');
-% msg throughput vs no of nodes
