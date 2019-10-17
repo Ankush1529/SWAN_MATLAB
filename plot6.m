@@ -5,7 +5,6 @@ y3=[.0015 .0028 .005 .0071 .0102 .0156 .0193 .0247];
 y4=[.0014 .0032 .0047 .0075 .0114 .0133 .0196 .0257];
 y5=[.0013 .0028 .0047 .0069 .0102 .0143 .0201 .0232];
 plot(x,y1,'+',x,y2,'*',x,y3,'--',x,y4,x,y5);
-%title('Computation Time of the SecureIoT');
 xlabel('Number of nodes');
 ylabel('Computation time (secs)');
 % computation time vs no of nodes
