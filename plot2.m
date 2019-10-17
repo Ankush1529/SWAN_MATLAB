@@ -7,4 +7,3 @@ y5=[564 2104 4970 8366 13526 19454 27368 34142];
 plot(x,y1,'+',x,y2,'--',x,y3,'*',x,y4,x,y5);
 xlabel('Number of nodes');
 ylabel('Message overhead');
-% message overhead vs no of nodes
